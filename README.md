@@ -1,12 +1,18 @@
-# Yield-Curve-Fitting
-A B-Spline approach to modelling the term structure of GBP swaps. Input data are taken from ICE fixing rate in addition to 3m and 6m Libor fixings on the same day.
+# Yield Curve Fitting In Python
 
-Key inferential methods used: 
+## Summary
+An attempt to create the GBP interest rate term structure by building a B-Spline model using Python and how the model made adjustments under various interest rate movement scenarios.
 
-B-splines, Maximum Likelihood Estimation, Bootstrapped Confidence Intervals
+This notebook follows closely to the analysis done by Neil Chandarana as per the links in the reference section below.
 
-Medium writeup: https://towardsdatascience.com/yield-curve-building-in-python-8d7974a6e7e3
+## Notebook
+1. 
 
+## Reference
+1. https://towardsdatascience.com/yield-curve-building-in-python-8d7974a6e7e3
+2. https://github.com/93tilinfinity/Yield-Curve-Fitting
+
+---
 
 
 
