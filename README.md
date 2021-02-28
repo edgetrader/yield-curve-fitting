@@ -6,7 +6,7 @@ An attempt to create the GBP interest rate term structure by building a B-Spline
 This notebook follows closely to the analysis done by Neil Chandarana as per the links in the reference section below.
 
 ## Notebook
-1. 
+1. https://github.com/edgetrader/yield-curve-fitting/blob/master/notebook/yield-curve-construction.ipynb
 
 ## Reference
 1. https://towardsdatascience.com/yield-curve-building-in-python-8d7974a6e7e3
